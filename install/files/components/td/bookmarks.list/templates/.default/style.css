@@ -1,0 +1,19 @@
+.bookmarks__controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 0 25px;
+}
+.bookmarks__sort__link.selected {
+  font-weight: 700;
+}
+.bookmarks__sort {
+  display: block;
+}
+.bookmarks__buttons--add,
+.bookmarks__buttons--export {
+  display: block;
+}
+.bookmarks__list__item {
+  margin: 0 0 30px;
+}
